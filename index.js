@@ -1,1 +1,3 @@
 function(){}
+getlose
+alert
