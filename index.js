@@ -1,1 +1,2 @@
-function(){}
+var getlose_yahoo
+getlose_yahoo
